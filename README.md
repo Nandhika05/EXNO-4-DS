@@ -25,9 +25,9 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 
-## Name : Nandhika P
+ Name : Nandhika P
 
-## Register Number : 212223040125
+ Register Number : 212223040125
 
 ```
 import pandas as pd
@@ -143,4 +143,5 @@ print(selected_features)
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+
+    Feature scaling and feature selection process has been successfullyperformed on the data set.
